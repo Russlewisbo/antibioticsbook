@@ -1,7 +1,30 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This is the course etextbook for MEQ3102743: Antibiotic Therapy: Discovery, Development and Rationale Clinical Use
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Using the navigation bar on the right, you can find links to reading, educational websites, videos, podcasts, weblinks and publications that you will find useful as you progress through the course
+
+Selected course materials will also be posted on the University Moodle site.
+
+::: columns
+::: {.column width="50%"}
+![](images/University_of_Padua_seal.png){fig-align="center" width="100" height="100"}
+:::
+
+::: {.column width="50%"}
+![](images/DMM.png){fig-align="center" width="200"}
+:::
+:::
+
+## Course Objectives
+
+Objective 1
 
 
+## What will this course address?
+
+This elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how (i) development of novel antibiotics has become more challenging in the last 30 years, (2) the key regulatory steps and barriers for advancing promising antibiotic candidates from the laboratory to clinical trials in humans, (3) the scientific basis underlying antibiotic dose selection an prediction of future resistance, and (4) clinical strategies for appropriate use for both older and newly-approved antibiotics. After completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance
+
+## Course content {.smaller}
+
+[Official university syllabus](https://didattica.unipd.it/off/2023/LM/ME/ME1934/002PD/MEQ3102743/N0)
