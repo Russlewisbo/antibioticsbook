@@ -1,0 +1,39 @@
+project:
+  type: book
+
+book:
+  title: "antibioticsbook"
+  author: "Russell Lewis"
+  date: "7/25/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - history.qmd
+    - antibiotictesting.qmd
+    - resistance1.qmd
+    - resistance2.qmd
+    - eskape.qmd
+    - discovery1.qmd
+    - discovery2.qmd
+    - preclinical.qmd
+    - toxicities.qmd
+    - susceptibility.qmd
+    - trial.qmd
+    - economics.qmd
+    - diagnostictests.qmd
+    - stewardship.qmd
+    - lmics.qmd
+    - mipd.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
