@@ -10,15 +10,15 @@
     "objectID": "index.html#course-objectives",
     "href": "index.html#course-objectives",
     "title": "antibioticsbook",
-    "section": "Course Objectives",
-    "text": "Course Objectives\nObjective 1"
+    "section": "0.1 Course Objectives",
+    "text": "0.1 Course Objectives\nObjective 1"
   },
   {
     "objectID": "index.html#what-will-this-course-address",
     "href": "index.html#what-will-this-course-address",
     "title": "antibioticsbook",
-    "section": "What will this course address?",
-    "text": "What will this course address?\nThis elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how:\n\nDevelopment of novel antibiotics has become more challenging in the last 30 years.\nThe key regulatory steps and barriers for advancing promising antibiotic candidates from the laboratory to clinical trials in humans.\nThe scientific basis underlying antibiotic dose selection an prediction of future resistance.\nClinical strategies for appropriate use for both older and newly-approved antibiotics.\n\nAfter completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance.\n## Course content\nOfficial university syllabus"
+    "section": "0.2 What will this course address?",
+    "text": "0.2 What will this course address?\nThis elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how:\n\nDevelopment of novel antibiotics has become more challenging in the last 30 years.\nThe key regulatory steps and barriers for advancing promising antibiotic candidates from the laboratory to clinical trials in humans.\nThe scientific basis underlying antibiotic dose selection an prediction of future resistance.\nClinical strategies for appropriate use for both older and newly-approved antibiotics.\n\nAfter completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance."
   },
   {
     "objectID": "history.html#the-impact-of-antibiotics-on-human-health",
@@ -116,7 +116,7 @@
     "href": "antibiotictesting.html#automated-antimicrobial-susceptibility-testing",
     "title": "3  Antibiotic testing in the laboratory",
     "section": "3.5 Automated antimicrobial susceptibility testing",
-    "text": "3.5 Automated antimicrobial susceptibility testing\nDue to the impracticality of manual BMD for routine AST, the majority of clinical microbiology laboratories use commercial automated conventional phenotypic AST platforms. These platforms employ a miniaturized broth microdilution-based method and automated pathogen identification, AST, and interpretation within a single system.\nThe most common platforms include:\n\nMicroScan WalkAway (Beckman Coulter Inc.) Youtube video of technology. In this video a microbiology technician shows the steps of how the test is performed.\nPhoenixTM (Becton, Dickinson and Company)Youtube video of technology\nSensititreTM (ThermoFisher) Youtube video of technology\nVitek2 (bioMérieux) Youtube video of the techology\n\nEach of the four systems mentioned can fully automate AST from inoculation to interpretation, although they employ different methodologies that yield varying time to results. The MicroScan, Phoenix, and Sensititre Systems directly measure MICs by observing bacterial growth in the presence of each antimicrobial included in the panel’s wells. The Vitek2 system calculates, rather than measures, MICs by comparing the growth of the test isolate to a reference isolate with a known MIC using a limited range of antimicrobial drug dilutions.\n\n\n\n\n\n\nRecommended reading\n\n\n\nAntimicrobial susceptibility testing: An updated primer for clinicians in the era of antimicrobial resistance (Wenzler et al., n.d.)"
+    "text": "3.5 Automated antimicrobial susceptibility testing\nDue to the impracticality of manual BMD for routine AST, the majority of clinical microbiology laboratories use commercial automated conventional phenotypic AST platforms. These platforms employ a miniaturized broth microdilution-based method and automated pathogen identification, AST, and interpretation within a single system.\nThe most common platforms include:\n\nMicroScan WalkAway (Beckman Coulter Inc.) Youtube video of technology. In this video a microbiology technician shows the steps of how the test is performed.\nPhoenixTM (Becton, Dickinson and Company)Youtube video of technology\nSensititreTM (ThermoFisher) Youtube video of technology\nVitek2 (bioMérieux) Youtube video of the techology\n\nEach of the four systems mentioned can fully automate AST from inoculation to interpretation, although they employ different methodologies that yield varying time to results. The MicroScan, Phoenix, and Sensititre Systems directly measure MICs by observing bacterial growth in the presence of each antimicrobial included in the panel’s wells. The Vitek2 system calculates, rather than measures, MICs by comparing the growth of the test isolate to a reference isolate with a known MIC using a limited range of antimicrobial drug dilutions.\n\n\n\n\n\n\nRecommended reading\n\n\n\nAntimicrobial susceptibility testing: An updated primer for clinicians in the era of antimicrobial resistance (Wenzler et al., n.d.)\n\n\nRight something here about rapid AST"
   },
   {
     "objectID": "antibiotictesting.html#rapid-antimicrobial-susceptibility-testing",
@@ -143,22 +143,22 @@
     "objectID": "antibiotictesting.html#key-concepts-for-review",
     "href": "antibiotictesting.html#key-concepts-for-review",
     "title": "3  Antibiotic testing in the laboratory",
-    "section": "3.9 Key concepts for review",
-    "text": "3.9 Key concepts for review"
+    "section": "3.10 Key concepts for review",
+    "text": "3.10 Key concepts for review"
   },
   {
     "objectID": "antibiotictesting.html#lecture-slides",
     "href": "antibiotictesting.html#lecture-slides",
     "title": "3  Antibiotic testing in the laboratory",
-    "section": "3.10 Lecture slides",
-    "text": "3.10 Lecture slides"
+    "section": "3.11 Lecture slides",
+    "text": "3.11 Lecture slides"
   },
   {
     "objectID": "antibiotictesting.html#references",
     "href": "antibiotictesting.html#references",
     "title": "3  Antibiotic testing in the laboratory",
-    "section": "3.11 References",
-    "text": "3.11 References\n\n\n\n\nBanerjee, Ritu, and Romney Humphries. 2021. “Rapid Antimicrobial Susceptibility Testing Methods for Blood Cultures and Their Clinical Impact.” Frontiers in Medicine 8: 635831. https://doi.org/10.3389/fmed.2021.635831.\n\n\nWenzler, Eric, Mira Maximos, Tomefa E. Asempa, Lauren Biehle, Audrey N. Schuetz, and Elizabeth B. Hirsch. n.d. “Antimicrobial Susceptibility Testing: An Updated Primer for Clinicians in the Era of Antimicrobial Resistance: Insights from the Society of Infectious Diseases Pharmacists.” Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy n/a (n/a). https://doi.org/10.1002/phar.2781."
+    "section": "3.12 References",
+    "text": "3.12 References\n\n\n\n\nBanerjee, Ritu, and Romney Humphries. 2021. “Rapid Antimicrobial Susceptibility Testing Methods for Blood Cultures and Their Clinical Impact.” Frontiers in Medicine 8: 635831. https://doi.org/10.3389/fmed.2021.635831.\n\n\nWenzler, Eric, Mira Maximos, Tomefa E. Asempa, Lauren Biehle, Audrey N. Schuetz, and Elizabeth B. Hirsch. n.d. “Antimicrobial Susceptibility Testing: An Updated Primer for Clinicians in the Era of Antimicrobial Resistance: Insights from the Society of Infectious Diseases Pharmacists.” Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy n/a (n/a). https://doi.org/10.1002/phar.2781."
   },
   {
     "objectID": "summary.html",
@@ -173,5 +173,54 @@
     "title": "References",
     "section": "",
     "text": "Banerjee, Ritu, and Romney Humphries. 2021. “Rapid Antimicrobial\nSusceptibility Testing Methods for Blood Cultures and Their Clinical\nImpact.” Frontiers in Medicine 8: 635831. https://doi.org/10.3389/fmed.2021.635831.\n\n\nBush, Karen, and George A. Jacoby. 2010. “Updated Functional\nClassification of β-Lactamases.” Antimicrobial Agents and\nChemotherapy 54 (3): 969–76. https://doi.org/10.1128/AAC.01009-09.\n\n\nDavies, Julian, and Dorothy Davies. 2010. “Origins and\nEvolution of Antibiotic Resistance.”\nMicrobiology and Molecular Biology Reviews : MMBR 74 (3):\n417–33. https://doi.org/10.1128/MMBR.00016-10.\n\n\nHolmes, Alison H, Luke S P Moore, Arnfinn Sundsfjord, Martin Steinbakk,\nSadie Regmi, Abhilasha Karkey, Philippe J Guerin, and Laura J V Piddock.\n2016. “Understanding the Mechanisms and Drivers of Antimicrobial\nResistance.” The Lancet 387 (10014): 176–87. https://doi.org/10.1016/S0140-6736(15)00473-0.\n\n\nKadri, Sameer S, Jennifer Adjemian, Yi Ling Lai, Alicen B Spaulding,\nEmily Ricotta, D Rebecca Prevots, Tara N Palmore, et al. 2018.\n“Difficult-to-Treat Resistance in Gram-Negative Bacteremia at 173\nUS Hospitals: Retrospective Cohort Analysis of Prevalence, Predictors,\nand Outcome of Resistance to All First-Line Agents.” Clinical\nInfectious Diseases: An Official Publication of the Infectious Diseases\nSociety of America 67 (12): 18031814. https://doi.org/10.1093/cid/ciy378.\n\n\nMagiorakos, A-P, A Srinivasan, R B Carey, Y Carmeli, M E Falagas, C G\nGiske, S Harbarth, et al. 2012. “Multidrug-Resistant, Extensively\nDrug-Resistant and Pandrug-Resistant Bacteria: An International Expert\nProposal for Interim Standard Definitions for Acquired\nResistance.” Clinical Microbiology and Infection: The\nOfficial Publication of the European Society of Clinical Microbiology\nand Infectious Diseases 18 (3): 268281. http://onlinelibrary.wiley.com/doi/10.1111/j.1469-0691.2011.03570.x/pdf.\n\n\nVerma, Sheetal, and S. P. Singh. 2008. “Current and Future Status\nof Herbal Medicines.” Veterinary World 1 (11): 347.\n\n\nWainwright, Milton. 1989. “Moulds in Ancient and More Recent\nMedicine.” Mycologist 3 (1): 21–23.\n\n\nWenzler, Eric, Mira Maximos, Tomefa E. Asempa, Lauren Biehle, Audrey N.\nSchuetz, and Elizabeth B. Hirsch. n.d. “Antimicrobial\nSusceptibility Testing: An Updated Primer for Clinicians in the Era of\nAntimicrobial Resistance: Insights from the Society of Infectious\nDiseases Pharmacists.” Pharmacotherapy: The Journal of Human\nPharmacology and Drug Therapy n/a (n/a). https://doi.org/10.1002/phar.2781."
+  },
+  {
+    "objectID": "antibiotictesting.html#rapid-phenotypic-antimicrobial-susceptibility-testing",
+    "href": "antibiotictesting.html#rapid-phenotypic-antimicrobial-susceptibility-testing",
+    "title": "3  Antibiotic testing in the laboratory",
+    "section": "3.6 Rapid phenotypic antimicrobial susceptibility testing",
+    "text": "3.6 Rapid phenotypic antimicrobial susceptibility testing\n\nRapid antimicrobial susceptibility testing methods. Adapted from Banerjee and Humphries (Banerjee and Humphries 2021) {#tbl-rapid} CE-IVD- Certified- in vitro diagnostic European Union.\n\n\n\n\n\n\n\n\nTest\nTechnology\nTime to result\nRegulation status\n\n\n\n\nPhenotest BC\nTime-lapse imaging of bacterial cells under dark-field microscopy. Morphological and kinetic changes analyzed.\n7 h\nUS FDA cleared\n\n\nAlfred\nLight scattering to detect bacterial growth in liquid culture broth.\n3–5 h\nCE-IVD\n\n\ndRast\nTime-lapse imaging of bacterial cells on micropatterned plastic microchips.\n6 h\nCE-IVD\n\n\nReveal AST\nSensor array for volatile organic compounds emitted during microorganism growth.\n4.5 h\nCE-IVD\n\n\nASTAR (AliFAX)\nTime-lapse imaging of bacterial growth in broth\n3–6 h\n\n\n\nFastInov\nFlow cytometry applying fluorescent dyes that reveal cell damage during treatment.\n1.4 h\nCE-IVD\n\n\nLifescale\nMass measurement using a microcantilever.\n4 h\nCE-IVD\n\n\n\nWrite something here\n\nT2 bacteria/T2 Candida Youtube video on technology\nMALDI-TOF Rapid AST Youtube video on technology\n\nIncubation of microorganisms with antimicrobials (or as a growth control without antimicrobials) does not need an additional microtiter plate or another incubation container, because it is performed directly on spots of a MALDI target in form of microdroplets. Another fundamental feature of the method is that read-out is performed by MALDI-TOF MS, in contrast to turbidity reading with reference methods (10, 11). Microorganisms are multiplying without addition of an antimicrobial (growth control), and their amplified bio- mass is detected by MALDI-TOF MS after the incubation. The same holds true for resistant microorganisms that are growing despite the presence of the antimicrobial. In contrast, microorganisms that are susceptible to the tested antimicrobial are inhibited, and their originally inoculated, not-amplified biomass cannot be detected by a MALDI-TOF MS instrument (Fig. 2). The sensitive detection of biomass by MALDI-TOF MS allows incubation times to be considerably shortened in comparison to the reference method.\n\n3.6.1 Genetic detection for rapid detection of resistance markers\nWriter something here as an introduction\n\n\n\n\n\n\n\n\nTest\nOrganisms identified\nResistance genes\n\n\n\n\nBiofire BCID2 (Biofire, Salt Lake City, UT)\n9 Gram-positive bacterial targets 14 Gram-negative bacterial targets 7 yeast targets\nCarbapenemases blaIMP blaKPC blaOXA−48−like blaNDM blaVIM Colistin resistance mcr-1 ESBL blaCTX−M Methicillin mecA/C MREJ Vancomycin vanA/B\n\n\nVerigene BC-GN (Luminex, Austin, TX)\n9 Gram-negative bacterial targets\nCarbapenemases blaIMP blaKPC blaOXA−48−like blaNDM blaVIM ESBL blaCTX−M\n\n\nVerigene BC-GP (Luminex)\n13 Gram-positive bacterial targets\nMethicillin mecA MREJ Vancomycin vanA/B\n\n\nePlex® BCID-GP (GenMark, Carlsbad, CA)\n20 Gram-positive bacterial targets “pan” Gram-negative target “pan” Candida target\nMethicillin mecA MREJ Vancomycin vanA/B\n\n\nePlex® BCID-GN (GenMark)\n21 Gram-negative targets “pan” Gram-positive target “pan” Candida target\nCarbapenemases blaIMP blaKPC blaOXA−48/OXA−23 blaNDM blaVIM ESBL blaCTX−M\n\n\nePlex® BCID-FP (GenMark)\n15 Fungal targets\nNone\n\n\nXpert® MRSA/SA BC (Cepheid, Sunnydale CA)\n1 Gram-positive target\nMethicillin mecA\n\n\n\nRapid antimicrobial susceptibility testing methods. Adapted from Banerjee and Humphries (Banerjee and Humphries 2021) {#tbl-genetic} CE-IVD- Certified- in vitro diagnostic European Union."
+  },
+  {
+    "objectID": "antibiotictesting.html#technical-limitations-of-phenpotypic-mic-testing",
+    "href": "antibiotictesting.html#technical-limitations-of-phenpotypic-mic-testing",
+    "title": "3  Antibiotic testing in the laboratory",
+    "section": "3.7 Technical limitations of phenpotypic MIC testing",
+    "text": "3.7 Technical limitations of phenpotypic MIC testing"
+  },
+  {
+    "objectID": "antibiotictesting.html#rapid-genotypic-antimicrobial-susceptibility-testing",
+    "href": "antibiotictesting.html#rapid-genotypic-antimicrobial-susceptibility-testing",
+    "title": "3  Antibiotic testing in the laboratory",
+    "section": "3.9 Rapid genotypic antimicrobial susceptibility testing",
+    "text": "3.9 Rapid genotypic antimicrobial susceptibility testing"
+  },
+  {
+    "objectID": "index.html#course-content",
+    "href": "index.html#course-content",
+    "title": "antibioticsbook",
+    "section": "0.3 Course content",
+    "text": "0.3 Course content\nOfficial university syllabus\n\n\n\n\n\n\n\n\nLecture\nTopic\nHours\n\n\n\n\n1\nIntroduction- History of antibiotic development\n2\n\n\n2\nAntibiotic testing in the laboratory\n2\n\n\n3\nMechanisms and treatment strategies for antibiotic resistance- Part 1\n2\n\n\n4\nMechanisms and treatment strategies for antibiotic resistance- Part 2\n2\n\n\n5\nPriority antimicrobial resistance pathogens: ESKAPE\n2\n\n\n6\nApproaches towards antibiotic discovery-Part 1\n2\n\n\n7\nApproaches towards antibiotic discovery-Part 2\n2\n\n\n8\nPreclinical assessment of antibiotic candidates\n2\n\n\n9\nAntibiotic toxicities\n2\n\n\n10\nAntimicrobial susceptibility testing and clinical decisions\n2\n\n\n11\nClinical trial design and interpretation for antibiotic regulatory approval\n2\n\n\n12\nEconomics of antibiotic development and marketing\n2\n\n\n13\nDiagnostic tests: Rationale application in antimicrobial therapy\n2\n\n\n14\nAntimicrobial stewardship\n2\n\n\n15\nAntibiotic development and access in low-middle income countries\n2\n\n\n16\nModel-informed precision dosing and therapeutic drug monitoring\n2"
+  },
+  {
+    "objectID": "index.html#student-projects",
+    "href": "index.html#student-projects",
+    "title": "antibioticsbook",
+    "section": "0.4 Student Projects",
+    "text": "0.4 Student Projects"
+  },
+  {
+    "objectID": "index.html#student-evaluation",
+    "href": "index.html#student-evaluation",
+    "title": "antibioticsbook",
+    "section": "0.5 Student evaluation",
+    "text": "0.5 Student evaluation"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "antibioticsbook",
+    "section": "0.6 Contact information",
+    "text": "0.6 Contact information\n\nAll source material in this handout is cited or credited to the original source. All other un-cited images are public domain covered by Creative Commons Zero (CC0) license acquired though www.rawpixel.com.\n\n\n\nOfficial university syllabus"
   }
 ]

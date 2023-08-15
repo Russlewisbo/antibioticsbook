@@ -1,6 +1,10 @@
-# Preface {.unnumbered}
+---
+title: "Preface"
+---
 
-This is the course etextbook for MEQ3102743: Antibiotic Therapy: Discovery, Development and Rationale Clinical Use
+This is the course etextbook for: <br> <br>
+
+**MEQ3102743: Antibiotic Therapy: Discovery, Development and Rationale Clinical Use**
 
 Using the navigation bar on the right, you can find links to reading, educational websites, videos, podcasts, weblinks and publications that you will find useful as you progress through the course
 
@@ -16,7 +20,7 @@ Selected course materials will also be posted on the University Moodle site.
 :::
 :::
 
-## Course Objectives
+## Course Objectives {.unumbered}
 
 Objective 1
 
@@ -34,6 +38,41 @@ This elective will examine the history and current challenges associated with th
 
 After completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance.
 
-\## Course content
+## Course content{.unumbered}
+
+[Official university syllabus](https://didattica.unipd.it/off/2023/LM/ME/ME1934/002PD/MEQ3102743/N0)
+
+| Lecture | Topic                                                                       | Hours |
+|-----------|--------------------------------------------------|-----------|
+| 1       | Introduction- History of antibiotic development                             | 2     |
+| 2       | Antibiotic testing in the laboratory                                        | 2     |
+| 3       | Mechanisms and treatment strategies for antibiotic resistance- Part 1       | 2     |
+| 4       | Mechanisms and treatment strategies for antibiotic resistance- Part 2       | 2     |
+| 5       | Priority antimicrobial resistance pathogens: ESKAPE                         | 2     |
+| 6       | Approaches towards antibiotic discovery-Part 1                              | 2     |
+| 7       | Approaches towards antibiotic discovery-Part 2                              | 2     |
+| 8       | Preclinical assessment of antibiotic candidates                             | 2     |
+| 9       | Antibiotic toxicities                                                       | 2     |
+| 10      | Antimicrobial susceptibility testing and clinical decisions                 | 2     |
+| 11      | Clinical trial design and interpretation for antibiotic regulatory approval | 2     |
+| 12      | Economics of antibiotic development and marketing                           | 2     |
+| 13      | Diagnostic tests: Rationale application in antimicrobial therapy            | 2     |
+| 14      | Antimicrobial stewardship                                                   | 2     |
+| 15      | Antibiotic development and access in low-middle income countries            | 2     |
+| 16      | Model-informed precision dosing and therapeutic drug monitoring             | 2     |
+
+## Student Projects
+
+## Student evaluation
+
+## Contact information
+
+------------------------------------------------------------------------
+
+All source material in this handout is cited or credited to the original source. All other un-cited images are public domain covered by Creative Commons Zero (CC0) license acquired though www.rawpixel.com.
+
+<center>![](images/creativecommons.png){width="150"}</center>
+
+
 
 [Official university syllabus](https://didattica.unipd.it/off/2023/LM/ME/ME1934/002PD/MEQ3102743/N0)
