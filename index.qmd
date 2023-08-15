@@ -22,6 +22,18 @@ Objective 1
 
 ## What will this course address?
 
-This elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how (i) development of novel antibiotics has become more challenging in the last 30 years, (2) the key regulatory steps and barriers for advancing promising antibiotic candidates from the laboratory to clinical trials in humans, (3) the scientific basis underlying antibiotic dose selection an prediction of future resistance, and (4) clinical strategies for appropriate use for both older and newly-approved antibiotics. After completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance gitcred \## Course content {.smaller}
+This elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how:
+
+1.  Development of novel antibiotics has become more challenging in the last 30 years.
+
+2.  The key regulatory steps and barriers for advancing promising antibiotic candidates from the laboratory to clinical trials in humans.
+
+3.  The scientific basis underlying antibiotic dose selection an prediction of future resistance.
+
+4.  Clinical strategies for appropriate use for both older and newly-approved antibiotics.
+
+After completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance.
+
+\## Course content
 
 [Official university syllabus](https://didattica.unipd.it/off/2023/LM/ME/ME1934/002PD/MEQ3102743/N0)

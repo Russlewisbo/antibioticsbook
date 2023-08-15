@@ -182,30 +182,51 @@ Each of the four systems mentioned can fully automate AST from inoculation to in
 [Antimicrobial susceptibility testing: An updated primer for clinicians in the era of antimicrobial resistance](Wenzler.pdf) [@wenzler]
 :::
 
-## Rapid antimicrobial susceptibility testing
+~~Right something here about rapid AST~~
 
-| Test         | Technology | Time to result | Video |
-|--------------|------------|----------------|-------|
-| Phenotest BC |            |                |       |
-| Alfred       |            |                |       |
-| dRast        |            |                |       |
-| Reveal AST   |            |                |       |
-| FastInov     |            |                |       |
-| Lifescale    |            |                |       |
-| T2           |            |                |       |
-| MALDI-TOF    |            |                |       |
+## Rapid phenotypic antimicrobial susceptibility testing
 
-: Rapid antimicrobial susceptibility testing methods. Adpted from Banerjee and Humphries [@banerjee2021] {#tbl-rapid}
+| Test           | Technology                                                                                                     | Time to result | Regulation status |
+|------------------|------------------|------------------|------------------|
+| Phenotest BC   | Time-lapse imaging of bacterial cells under dark-field microscopy. Morphological and kinetic changes analyzed. | 7 h            | US FDA cleared    |
+| Alfred         | Light scattering to detect bacterial growth in liquid culture broth.                                           | 3--5 h         | CE-IVD            |
+| dRast          | Time-lapse imaging of bacterial cells on micropatterned plastic microchips.                                    | 6 h            | CE-IVD            |
+| Reveal AST     | Sensor array for volatile organic compounds emitted during microorganism growth.                               | 4.5 h          | CE-IVD            |
+| ASTAR (AliFAX) | Time-lapse imaging of bacterial growth in broth                                                                | 3--6 h         |                   |
+| FastInov       | Flow cytometry applying fluorescent dyes that reveal cell damage during treatment.                             | 1.4 h          | CE-IVD            |
+| Lifescale      | Mass measurement using a microcantilever.                                                                      | 4 h            | CE-IVD            |
+
+: Rapid antimicrobial susceptibility testing methods. Adapted from Banerjee and Humphries [@banerjee2021] {#tbl-rapid} CE-IVD- Certified- in vitro diagnostic European Union.
+
+~~*Write something here*~~
 
 -   T2 bacteria/T2 Candida [Youtube video on technology](https://www.youtube.com/watch?v=HWiX9HNszNM&t=1s)
 
 -   MALDI-TOF Rapid AST [Youtube video on technology](https:/www.youtube.com/watch?v=0jeFpXHZ8W0)
 
-Incubation of microorganisms with antimicrobials (or as a growth control without antimicrobials) does not need an additional microtiter plate or another incubation container, because it is performed directly on spots of a MALDI target in form of microdropletsAnother fundamental feature of the method is that read-out is performed by MALDI-TOF MS, in contrast to turbidity reading with reference methods (10, 11). Microorganisms are multiplying without addition of an antimicrobial (growth control), and their amplified bio- mass is detected by MALDI-TOF MS after the incubation. The same holds true for resistant microorganisms that are growing despite the presence of the antimicrobial. In contrast, microorganisms that are susceptible to the tested antimicrobial are inhibited, and their originally inoculated, not-amplified biomass cannot be detected by a MALDI-TOF MS instrument (Fig. 2). The sensitive detection of biomass by MALDI-TOF MS allows incubation times to be considerably shortened in comparison to the reference method
+Incubation of microorganisms with antimicrobials (or as a growth control without antimicrobials) does not need an additional microtiter plate or another incubation container, because it is performed directly on spots of a MALDI target in form of microdroplets. Another fundamental feature of the method is that read-out is performed by MALDI-TOF MS, in contrast to turbidity reading with reference methods (10, 11). Microorganisms are multiplying without addition of an antimicrobial (growth control), and their amplified bio- mass is detected by MALDI-TOF MS after the incubation. The same holds true for resistant microorganisms that are growing despite the presence of the antimicrobial. In contrast, microorganisms that are susceptible to the tested antimicrobial are inhibited, and their originally inoculated, not-amplified biomass cannot be detected by a MALDI-TOF MS instrument (Fig. 2). The sensitive detection of biomass by MALDI-TOF MS allows incubation times to be considerably shortened in comparison to the reference method.
 
-## Technical limitations of MIC testing
+### Genetic detection for rapid detection of resistance markers
+
+~~Writer something here as an introduction~~
+
+| Test                                        | Organisms identified                                                                 | Resistance genes                                                                                                                            |
+|---------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Biofire BCID2 (Biofire, Salt Lake City, UT) | 9 Gram-positive bacterial targets 14 Gram-negative bacterial targets 7 yeast targets | Carbapenemases blaIMP blaKPC blaOXA−48−like blaNDM blaVIM Colistin resistance mcr-1 ESBL blaCTX−M Methicillin mecA/C MREJ Vancomycin vanA/B |
+| Verigene BC-GN (Luminex, Austin, TX)        | 9 Gram-negative bacterial targets                                                    | Carbapenemases blaIMP blaKPC blaOXA−48−like blaNDM blaVIM ESBL blaCTX−M                                                                     |
+| Verigene BC-GP (Luminex)                    | 13 Gram-positive bacterial targets                                                   | Methicillin mecA MREJ Vancomycin vanA/B                                                                                                     |
+| ePlex® BCID-GP (GenMark, Carlsbad, CA)      | 20 Gram-positive bacterial targets "pan" Gram-negative target "pan" Candida target   | Methicillin mecA MREJ Vancomycin vanA/B                                                                                                     |
+| ePlex® BCID-GN (GenMark)                    | 21 Gram-negative targets "pan" Gram-positive target "pan" Candida target             | Carbapenemases blaIMP blaKPC blaOXA−48/OXA−23 blaNDM blaVIM ESBL blaCTX−M                                                                   |
+| ePlex® BCID-FP (GenMark)                    | 15 Fungal targets                                                                    | None                                                                                                                                        |
+| Xpert® MRSA/SA BC (Cepheid, Sunnydale CA)   | 1 Gram-positive target                                                               | Methicillin mecA                                                                                                                            |
+
+Rapid antimicrobial susceptibility testing methods. Adapted from Banerjee and Humphries [@banerjee2021] {#tbl-genetic} CE-IVD- Certified- in vitro diagnostic European Union.
+
+## Technical limitations of phenpotypic MIC testing
 
 ## How are MIC results interpreted?
+
+## Rapid genotypic antimicrobial susceptibility testing
 
 ## Key concepts for review
 
