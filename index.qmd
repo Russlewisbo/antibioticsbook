@@ -2,7 +2,7 @@
 title: "Preface"
 ---
 
-This is the course etextbook for: <br> <br>
+This is the course etextbook for: <br>
 
 **MEQ3102743: Antibiotic Therapy: Discovery, Development and Rationale Clinical Use**
 
@@ -20,11 +20,11 @@ Selected course materials will also be posted on the University Moodle site.
 :::
 :::
 
-## Course Objectives {.unumbered}
+## Course Objectives {.unnumbered}
 
 Objective 1
 
-## What will this course address?
+## What will this course address? {.unnumbered}
 
 This elective will examine the history and current challenges associated with the discovery, development and clinical use of antibiotics in medicine in an era of increasing multi-drug resistance. Specifically, the course will examine how:
 
@@ -38,7 +38,7 @@ This elective will examine the history and current challenges associated with th
 
 After completion of the course, medical biotechnology students will have a broad understanding of the key scientific issues and technologies used to address the greatest public health challenge of the 21st century-antibiotic resistance.
 
-## Course content{.unumbered}
+## Course content {.unnumbered}
 
 [Official university syllabus](https://didattica.unipd.it/off/2023/LM/ME/ME1934/002PD/MEQ3102743/N0)
 
@@ -61,11 +61,11 @@ After completion of the course, medical biotechnology students will have a broad
 | 15      | Antibiotic development and access in low-middle income countries            | 2     |
 | 16      | Model-informed precision dosing and therapeutic drug monitoring             | 2     |
 
-## Student Projects
+## Student Projects {.unnumbered}
 
-## Student evaluation
+## Student evaluation {.unnumbered}
 
-## Contact information
+## Contact information {.unnumbered}
 
 ------------------------------------------------------------------------
 
